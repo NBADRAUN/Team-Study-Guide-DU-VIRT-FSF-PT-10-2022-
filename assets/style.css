@@ -1,6 +1,7 @@
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  }
+    padding:10px; 
+}
 header {
     border:solid #525252; 
     background-color: #525252;;
@@ -39,7 +40,7 @@ nav a {
 }
 body {
     border: solid black; 
-    height: 1200px; 
+    height: 1500px; 
     background-color: lightblue;
     color: black; 
     font-size: 18px;
